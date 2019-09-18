@@ -10,6 +10,9 @@ namespace file_search
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("TEST");
+            Console.ReadKey();
+            //
         }
     }
 }
